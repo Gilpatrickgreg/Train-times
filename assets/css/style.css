@@ -1,0 +1,22 @@
+div {
+    width: 75%;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+table {
+    width: 100%;
+}
+
+#header {
+    text-align: center;
+}
+
+#current-sched {
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
+
+#add-train {
+    border: 1px solid black;
+}
