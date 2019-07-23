@@ -1,22 +1,19 @@
-div {
-    width: 75%;
-    margin: 0 auto;
-    padding: 10px;
+.jumbotron{
+    background-color: rgb(49, 12, 214);
+    color: whitesmoke; 
 }
 
-table {
-    width: 100%;
+
+
+.list-group-item{
+    width: 100%
 }
 
-#header {
-    text-align: center;
+form{
+   
+    margin-top: 20px;
 }
 
-#current-sched {
-    border: 1px solid black;
-    margin-bottom: 10px;
-}
-
-#add-train {
-    border: 1px solid black;
+.tableheader{
+    font-weight: 800;
 }
